@@ -3,36 +3,26 @@
 </p>
 
 <h1>Creating Users and Security Groups</h1>
-This project outlines the installation of on-premises Active Directory within Azure Virtual Machines.<br />
+This project outlines the creation of both users and security groups within Active Directory<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop Connection
-- Active Directory Domain Services
-- PowerShell
+- Active Directory Domain Services (Active Directory Users and Computers)
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 (21H2)
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create Resource Group
-- Create a Virtual Network
-- Create a Domain Controller with the Windows Server 2022 Datacenter OS named `dc-1`
-    - Username: adminuser
-    - Password: AdminSecurePassword123!!!
-- Create a Client VM with the Windows 10 Pro OS name `client-1`
-    - Username: labuser
-    - Password: SecurePassword123!!!
-- Assign `client-1` DNS settings to match the private IP address from `dc-1`
+- Create a user named `John Doe`
+- Create a security group named `Clerks`
+- Assign `John Doe` to the `Clerks` security group
 
 <h2>Deployment and Configuration Steps</h2>
 
-## Create Virtual Network
+## Creating the user
 ### Within Azure create a virtual network, this vn with allow the Virtual Machiness to communicate within the same network
 <p>
 <img src="https://github.com/user-attachments/assets/ad2197a9-c243-4080-a395-6775cce5ad10" width="550" alt="Disk Sanitization Steps"/>
