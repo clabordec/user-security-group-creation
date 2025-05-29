@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating Users and Security Groups</h1>
-This project outlines the creation of both users and security groups within Active Directory<br />
+This project outlines the creation of both user accounts and security groups within Active Directory<br />
 
 
 <h2>Environments and Technologies Used</h2>
