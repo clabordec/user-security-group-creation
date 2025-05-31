@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://github.com/user-attachments/assets/d6aea427-8413-4b5b-aa70-b70e1964bad5" width = "550" alt="Microsoft Active Directory Logo"/>
 </p>
+
 
 <h1>Creating Users and Security Groups</h1>
 This project outlines the creation of both user accounts and security groups within Active Directory<br />
