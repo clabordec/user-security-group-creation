@@ -71,7 +71,16 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img src="https://github.com/user-attachments/assets/0d090446-9386-413e-ab6b-c6495d9d27f3" width="550" alt="Disk Sanitization Steps"/>
 </p>
-![image](https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba)
+
+### Specify the name of the group, ensure that the group type is Security
+<p>
+<img src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Verify that the following group has been created
+<p>
+<img src="https://github.com/user-attachments/assets/1c97b9bb-b911-4b4f-ad08-ab8c158e1541" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
 <br />
 
