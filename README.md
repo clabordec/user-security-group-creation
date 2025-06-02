@@ -54,7 +54,7 @@ This project outlines the creation of both user accounts and security groups wit
 <img src="https://github.com/user-attachments/assets/3e4992e6-da92-42fc-99a1-5730a61acd09" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Click finish
+### Click Finish
 <p>
 <img src="https://github.com/user-attachments/assets/d69e9389-571a-44a9-8804-e648e2cfc35e" width="550" alt="Disk Sanitization Steps"/>
 </p>
@@ -92,10 +92,9 @@ This project outlines the creation of both user accounts and security groups wit
 
 ### Go to the Members tab, then click Add
 <p>
-<img src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/7f5c9c74-b8e5-4b8b-8cd2-a204eb8f513a" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-https://github.com/user-attachments/assets/7f5c9c74-b8e5-4b8b-8cd2-a204eb8f513a
 ### Verify that the following group has been created
 <p>
 <img src="https://github.com/user-attachments/assets/1c97b9bb-b911-4b4f-ad08-ab8c158e1541" width="550" alt="Disk Sanitization Steps"/>
