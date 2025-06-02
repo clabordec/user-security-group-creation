@@ -7,19 +7,34 @@
 This project outlines the creation of both user accounts and security groups within Active Directory<br />
 
 
+<br>
+
+
 <h2>Environments and Technologies Used</h2>
 
 - Active Directory Domain Services (Active Directory Users and Computers)
 
+
+<br>
+
+
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
+
+
+<br>
+
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create a user named `John Doe`
 - Create a security group named `Clerks`
 - Assign `John Doe` to the `Clerks` security group
+
+
+<br>
+
 
 <h2>Deployment and Configuration Steps</h2>
 
