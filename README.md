@@ -39,21 +39,9 @@ This project outlines the creation of both user accounts and security groups wit
 <h2>Deployment and Configuration Steps</h2>
 
 ## Creating the user
-### Within Azure create a virtual network, this vn with allow the Virtual Machiness to communicate within the same network
+### In the USA OU, go to Users >> Right-click on the Accounting OU >> Click New > Click User
 <p>
-<img src="https://github.com/user-attachments/assets/ad2197a9-c243-4080-a395-6775cce5ad10" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/091eb8ec-bd16-460a-810e-02ed50089eec" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/b54cf44c-1ffb-4e54-9c7c-d7905435191e" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/2ef952ef-9b55-4f0c-8b25-7223e54312f1" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/ee40c40e-a48f-4f5e-8925-6492477fc548" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0f3918ee-cfd4-420c-ad87-bd590aebcd6d" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
