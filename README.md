@@ -84,93 +84,23 @@ This project outlines the creation of both user accounts and security groups wit
 
 <br />
 
-### Be sure to check the Licensing to aviod any errors
+## Assiging the user to the group
+### Right click on the Clerks security group, then click Properties
 <p>
-<img src="https://github.com/user-attachments/assets/bef855ee-cdf5-42d8-89b3-c9d63783953f" width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/02e3bbad-dee0-41e4-9a9d-5335567e4b98" width="550" alt="Disk Sanitization Steps"/>
 </p>
-<br />
 
+### Go to the Members tab, then click Add
+<p>
+<img src="https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba" width="550" alt="Disk Sanitization Steps"/>
+</p>
 
-### Click on the Network section and assign the `windows-vnet` to the VM
+https://github.com/user-attachments/assets/7f5c9c74-b8e5-4b8b-8cd2-a204eb8f513a
+### Verify that the following group has been created
 <p>
-<img src="https://github.com/user-attachments/assets/46cbaada-41c5-4b4a-8ff2-56c7c03cd2a0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/1c97b9bb-b911-4b4f-ad08-ab8c158e1541" width="550" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<img src="https://github.com/user-attachments/assets/aa0a4ed0-dc9d-42c9-9f5d-668c4d5a1d6b" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
 
-
-## Create the Client VM
-<p>
-<img src="https://github.com/user-attachments/assets/4464316f-abee-404d-ae8b-b2b088ea2692" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/164d5f17-eab8-4069-a19a-0290babcd27e" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/0d3405ee-d765-4377-b9b6-ca7e57dba340" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/aa6d7898-799f-4492-8837-8a8368a47cd8" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Be sure to check the Licensing to avoid any errors
-<p>
-<img src="https://github.com/user-attachments/assets/81729691-70c9-4e22-8252-53bbb41403a4" width="550" alt="Disk Sanitization Steps" />
-</p>
-<br />
-
-### Click on the Network section and assign the `windows-vnet` to the VM
-<p>
-<img src="https://github.com/user-attachments/assets/12f9bb63-b623-4c2f-a656-5e54882d75af" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/c10dbb36-1000-47dd-aee9-3aaf3213cbb0" width="550" alt="Disk Sanitization Steps" />
-</p>
-<br />
-
-### Set `client-1` DNS settings to match `dc-1` Private IP address
-<p>
-<img src="https://github.com/user-attachments/assets/b0729472-1c35-4ec5-a92c-8658ba2af405" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/2a1f8bf2-a9f3-4fac-be5c-7ef9534cd4ce" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/2a1f8bf2-a9f3-4fac-be5c-7ef9534cd4ce" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/63ade75b-fedd-4798-86be-6cd3d7cf446a" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Get the private IP address from `dc-1`
-<p>
-<img src="https://github.com/user-attachments/assets/605cd1e8-ffcc-45a5-b817-61236d9aaecb" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Enter `dc-1` private IP address as the DNS server for `client-1`
-<p>
-<img src="https://github.com/user-attachments/assets/dc8b5e32-ecdb-4719-822b-dd472bf96306" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Restart `client-1` from the Azure Portal
-<p>
-<img src="https://github.com/user-attachments/assets/813ef37b-6794-458e-af21-759faa6c8719" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/813ef37b-6794-458e-af21-759faa6c8719" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-### Log into `client-1` and run the `ipconfig /all` command to view all internet protocal configurations
-<p>
-<img src="https://github.com/user-attachments/assets/f5ea1c2e-a2dd-4da7-b028-5870a012b1d4" width="550" alt="Disk Sanitization Steps"/>
-</p>
 
 
 ---
