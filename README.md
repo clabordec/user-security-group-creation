@@ -43,6 +43,26 @@ This project outlines the creation of both user accounts and security groups wit
 <p>
 <img src="https://github.com/user-attachments/assets/0f3918ee-cfd4-420c-ad87-bd590aebcd6d" width="550" alt="Disk Sanitization Steps"/>
 </p>
+
+### Enter in the following data, then click Next
+<p>
+<img src="https://github.com/user-attachments/assets/e75d0e4f-6ed1-4a34-bf4f-ef7c6b9ae5e7" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Enter a secure password
+<p>
+<img src="https://github.com/user-attachments/assets/3e4992e6-da92-42fc-99a1-5730a61acd09" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Click finish
+<p>
+<img src="https://github.com/user-attachments/assets/d69e9389-571a-44a9-8804-e648e2cfc35e" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/f1eb43fe-17da-4cb0-b357-26fd63b7185e" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+
 <br />
 
 
