@@ -66,22 +66,13 @@ This project outlines the creation of both user accounts and security groups wit
 <br />
 
 
-## Create the Domain Controller VM
+## Creating the security group
+### In the USA OU, go to Users >> Right-click on the Accounting OU >> Click New > Click Group
 <p>
-<img src="https://github.com/user-attachments/assets/03fe46f0-14cd-4409-8521-ff6f95d09b46" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/0d090446-9386-413e-ab6b-c6495d9d27f3" width="550" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-<img src="https://github.com/user-attachments/assets/984a29d1-5a11-437d-aa9a-4477b5f5e269" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/6600e096-fe7d-4892-94bf-aeb886e6152a" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/17b0f803-57b2-41b9-8d77-0e029fb00d7c" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/5dcb7277-92dc-4ddd-9bb6-fc58871020b7" width="550" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/user-attachments/assets/5a012fd7-772e-4d39-9223-40ae229c8eba)
+
 <br />
 
 ### Be sure to check the Licensing to aviod any errors
