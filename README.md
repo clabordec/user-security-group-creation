@@ -95,7 +95,7 @@ This project outlines the creation of both user accounts and security groups wit
 <img src="https://github.com/user-attachments/assets/7f5c9c74-b8e5-4b8b-8cd2-a204eb8f513a" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Verify that the following group has been created
+### Enter the object name, in this case the user name, then click Check Names, the email of the user for the domain will appear in the input box
 <p>
 <img src="https://github.com/user-attachments/assets/1c97b9bb-b911-4b4f-ad08-ab8c158e1541" width="550" alt="Disk Sanitization Steps"/>
 </p>
