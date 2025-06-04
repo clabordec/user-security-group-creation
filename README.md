@@ -7,23 +7,14 @@
 This project outlines the creation of both user accounts and security groups within Active Directory<br />
 
 
-<br>
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Active Directory Domain Services (Active Directory Users and Computers)
 
 
-<br>
-
-
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-
-
-<br>
 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
@@ -36,7 +27,7 @@ This project outlines the creation of both user accounts and security groups wit
 <br>
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h1>Actions and Observations</h1>
 
 ## Creating the user
 ### In the USA OU, go to Users >> Right-click on the Accounting OU >> Click New > Click User
